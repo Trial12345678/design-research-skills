@@ -1,10 +1,6 @@
 ---
 name: research-question-inverted-triangle
-description: Invoke when a researcher needs to develop or sharpen a research 
-question using the inverted triangle method — narrowing from broad concept to 
-bounded, answerable question. Includes question typology classification and 
-FINER validity check. Works across design research, social science, and 
-academic contexts.
+description: "Invoke when a researcher needs to develop or sharpen a research question using the inverted triangle method — narrowing from broad concept to bounded, answerable question. Includes question typology classification and FINER validity check. Works across design research, social science, and academic contexts."
 ---
 
 The user provides a broad topic area, a partial question draft, or both. Claude 
